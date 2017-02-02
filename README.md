@@ -1,0 +1,2 @@
+# MovieRating
+The project is described in detail in PROGRAMMING PROJECTS #14 at the end of chapter 10. A sample project is available on Moodle named AverageGrade that is very similar to the MovieRatings project, but it only is inputting one string (className) instead of both the movie name and the MPAA rating. Another difference is that the AverageGrade program scores grades A to F with point values from 4.0 to 0.0 (highest to lowest) while the MovieRatings scores the rating from 1 to 5 (lowest to highest)
